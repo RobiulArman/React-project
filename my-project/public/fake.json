@@ -1,0 +1,89 @@
+[
+    {
+      "recipe_id": 1,
+      "recipe_name": "Spaghetti Carbonara",
+      "recipe_image": "https://unsplash.com/photos/a-white-plate-topped-with-spaghetti-and-bacon-fDLBn8X_IlU",
+      "short_description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
+      "ingredients": [
+        "200g spaghetti",
+        "100g pancetta",
+        "2 large eggs",
+        "50g grated parmesan",
+        "Freshly ground black pepper",
+        "Salt"
+      ],
+      "preparing_time": 20 ,
+      "calories": 400
+    },
+    {
+      "recipe_id": 2,
+      "recipe_name": "Chicken Caesar Salad",
+      "recipe_image": "https://unsplash.com/photos/a-table-topped-with-lots-of-plates-of-food-bXNv-wEoQjI",
+      "short_description": "A fresh, crunchy Caesar salad topped with grilled chicken and classic dressing.",
+      "ingredients": [
+        "2 chicken breasts",
+        "4 cups romaine lettuce",
+        "50g parmesan cheese",
+        "Croutons",
+        "Caesar dressing",
+        "Salt",
+        "Pepper"
+      ],
+      "preparing_time": 15,
+      "calories": 350
+    },
+    {
+      "recipe_id": 3,
+      "recipe_name": "Vegetable Stir-Fry",
+      "recipe_image": "https://unsplash.com/photos/steamed-rice-with-viand-on-top-zbqWr6u-sSk",
+      "short_description": "A quick and colorful stir-fried vegetable dish with a flavorful sauce.",
+      "ingredients": [
+        "1 cup broccoli florets",
+        "1 cup sliced carrots",
+        "1 bell pepper, sliced",
+        "1/2 cup snow peas",
+        "2 tbsp soy sauce",
+        "1 tbsp olive oil",
+        "1 tsp sesame seeds"
+      ],
+      "preparing_time": 10,
+      "calories": 250
+    },
+    {
+      "recipe_id": 4,
+      "recipe_name": "Beef Tacos",
+      "recipe_image": "https://unsplash.com/photos/mexican-tacos-with-lemon-and-salsa-traditional-mexican-food-in-mexico-city-YIk_xKvKFcs",
+      "short_description": "Classic beef tacos with fresh toppings and soft corn tortillas.",
+      "ingredients": [
+        "200g ground beef",
+        "4 small corn tortillas",
+        "1/2 cup shredded lettuce",
+        "1/4 cup diced tomatoes",
+        "1/4 cup shredded cheese",
+        "1 tbsp taco seasoning",
+        "Salt",
+        "Pepper"
+      ],
+      "preparing_time": 15,
+      "calories": 300
+    },
+    {
+      "recipe_id": 5,
+      "recipe_name": "Banana Pancakes",
+      "recipe_image": "https://unsplash.com/photos/pancakes-with-bananas-and-blueberries-on-a-white-plate-mqN-bygODRg",
+      "short_description": "Fluffy pancakes made with mashed bananas, perfect for a delicious breakfast.",
+      "ingredients": [
+        "1 cup flour",
+        "1 tbsp sugar",
+        "1 tsp baking powder",
+        "1/2 tsp baking soda",
+        "1 large egg",
+        "1 cup milk",
+        "1 ripe banana, mashed",
+        "Butter for cooking"
+      ],
+      "preparing_time": 10,
+      "calories": 220
+    }
+  ]
+  
